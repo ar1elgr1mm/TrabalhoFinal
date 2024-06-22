@@ -1,4 +1,5 @@
-# Trabalho Final de POO - Sistemas de Informação - Univille
+# Trabalho Final de Programação Orientada a Objetos 
+Sistemas de Informação - Univille
 
 ## Descrição
 Este projeto é referente ao trabalho final da disciplina de Programação Orientada a Objetos do curso de Sistemas de Informação da universidade Univille. O sistema implementa um gerenciamento de estoque simples usando Java.
